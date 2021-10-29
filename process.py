@@ -140,7 +140,6 @@ if __name__ == "__main__":
 
     # Get observations
     observations = load_data("observations.csv")
-    print(observations)
 
     # Approximate eye height
     approx_height = 1.68 # m
